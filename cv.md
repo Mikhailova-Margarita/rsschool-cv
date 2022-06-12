@@ -34,4 +34,5 @@ Russian - native speaker.
 English - A2 (B1 in process…)
 
 ## Projects:
-My CV 
+My CV     
+
